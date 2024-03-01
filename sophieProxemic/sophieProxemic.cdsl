@@ -1,0 +1,10 @@
+Component sophieProxemic
+{
+    Communications
+    {
+  
+    };
+    language Cpp;
+    options dsr;
+};
+
